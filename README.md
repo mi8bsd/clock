@@ -1,5 +1,5 @@
 % ngbuddy(8) | System Manager's Manual
-% Daniel J. Bell
+% Michael
 % July 8, 2024
 
 # NAME
