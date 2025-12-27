@@ -20,7 +20,7 @@ This is a reference implementation, not production-hardened.
 
 Example Jail JSON
 
-,,,
+,,,,
 
 {
   "name": "testjail",
@@ -29,7 +29,7 @@ Example Jail JSON
   "host_hostname": "testjail.local"
 }
 
-,,,
+,,,,
 
 Example Requests
 
